@@ -104,7 +104,7 @@ You may have to install the movies metadata from TMDB too :b
 ## Prototype UI
 
 ### 1. Select Genres
-![Select Genres UI](Movie_recommendation_system/Movie-Recommendation-System-main/document/select_genres.png)
+![Select Genres UI](Movie-Recommendation-System-main/document/select_genres.png)
 
 Users can pick one or multiple genres (e.g., Action, Comedy, Drama) to personalize recommendations.
 
