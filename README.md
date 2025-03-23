@@ -109,12 +109,12 @@ You may have to install the movies metadata from TMDB too :b
 Users can pick one or multiple genres (e.g., Action, Comedy, Drama) to personalize recommendations.
 
 ### 2. Select Movie
-![Select Movie UI](Movie-Recommedation-System-main/document/select_movie.png)
+![Select Movie UI](Movie-Recommendation-System-main/document/select_movie.png)
 
 Users can type or select a movie title from a dropdown or list to trigger the recommendation engine.
 
 ### 3. Recommendations
-![Movie Recommendations UI](Movie-Recommedation-System-main/document/recommendations.png)
+![Movie Recommendations UI]Movie-Recommendation-System-main/document/recommendations.png)
 
 The system will generate a list of recommended movies based on KNN+FAISS, or Content-based approaches.
 
