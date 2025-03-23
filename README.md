@@ -114,7 +114,7 @@ Users can pick one or multiple genres (e.g., Action, Comedy, Drama) to personali
 Users can type or select a movie title from a dropdown or list to trigger the recommendation engine.
 
 ### 3. Recommendations
-![Movie Recommendations UI]Movie-Recommendation-System-main/document/recommendations.png)
+![Movie Recommendations UI](Movie-Recommendation-System-main/document/recommendations.png)
 
 The system will generate a list of recommended movies based on KNN+FAISS, or Content-based approaches.
 
